@@ -1,1 +1,1 @@
-# Covid_Recorder_Java-Gui
+# CovidReport_Recorder_Java-Gui
